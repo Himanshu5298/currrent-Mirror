@@ -1,9 +1,10 @@
-# Currrent-Mirror
-Current mirror using nmos
+# Currrent Mirror using nmos
+A current mirror is a circuit created to manage the current flowing through another active device in the circuit, maintaining a consistent output current independent of the load.<br>
 
 The basic circuit for the current mirror using nmos will look like this
 
 ![1 1](https://user-images.githubusercontent.com/111113962/190994629-ea6015ce-5755-4aa4-b53b-077cebacc15d.png)
+to replicate the current in the adjoining nmos we have to short circuit the drain node and gate node of source nmos.
 
 First we will find out the resistance of the circuit.
 We will do AC analysis of the circuit for the frequency sweep of 1 to 1GHz.
