@@ -1,4 +1,4 @@
-# currrent-Mirror
+# Currrent-Mirror
 Current mirror using nmos
 
 The basic circuit for the current mirror using nmos will look like this
